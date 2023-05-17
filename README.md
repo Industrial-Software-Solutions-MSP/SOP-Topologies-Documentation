@@ -10,7 +10,7 @@ This repo contains Standard Operating Procedures (SOPs), Scripts, and System Doc
   * [SOP 6](<insert url here>)
 
 ## System Topology
-  * [Topology](insert url here)
+  * [Topology](https://github.com/Industrial-Software-Solutions-MSP/SOP-Topologies-Documentation/blob/main/Network%20Topology_v2.pdf)
 
 ## Documentation
-  * [Config Documentation](insert url here)
+  * [Config Documentation](<insert url here>)
