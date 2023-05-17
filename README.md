@@ -2,9 +2,9 @@
 This repo contains Standard Operating Procedures (SOPs), Scripts, and System Documentation
 
 ## SOPs
-  * [SOP 1](insert url here)
-  * [SOP 2](insert url here)
-  * [SOP 3](insert url here)
+  * [Technology Onboarding Process for New Hires]
+  * [Termination Process for Technology](insert url here)
+  * [Sensitive Data Disposal](insert url here)
   * [SOP 4](insert url here)
   * [SOP 5](insert url here)
   * [SOP 6](insert url here)
