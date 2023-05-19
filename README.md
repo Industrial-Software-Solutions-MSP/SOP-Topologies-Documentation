@@ -19,3 +19,4 @@ This repo contains Standard Operating Procedures (SOPs), Scripts, and System Doc
   * [Topology](https://github.com/Industrial-Software-Solutions-MSP/SOP-Topologies-Documentation/blob/main/Network%20Topology_v2.pdf)
 
 ## Documentation
+  * [Veeam Backup Summary](https://github.com/Industrial-Software-Solutions-MSP/SOP-Topologies-Documentation/blob/main/Veeam%20Backup%20Documentation)
