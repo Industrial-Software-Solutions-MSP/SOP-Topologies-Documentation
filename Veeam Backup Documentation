@@ -1,0 +1,41 @@
+#Veeam Backup Summary Documentation
+
+Backup job was modified successfully.
+
+General ------------------------------------------
+Backup job name: Full Backup
+Backup job description:
+Created by DESKTOP-4ALVMCT\VM-JMC at 5/5/2023 12:39 PM.
+
+
+Source -------------------------------------------
+Backup mode: file level backup
+Included items:
+	Desktop
+	Documents
+	Pictures
+	Video
+	Music
+	Favorites
+	Downloads
+	Other files and folders
+	Business - Share Drive (S:)
+Excluded items:
+	Roaming profiles
+
+
+Destination --------------------------------------
+Local folder: C:\BackUp\
+Keep restore points for the last 7 days
+Compression level: Optimal (recommended)
+Storage optimization: 1MB (recommended)
+Storage encryption: disabled
+GFS: disabled
+
+
+Schedule -----------------------------------------
+Backup is not scheduled to run automatically
+
+
+Command line to start the job:
+"C:\Program Files\Veeam\Endpoint Backup\Veeam.EndPoint.Manager.exe" "backup" "9308e193-55d9-4624-95b3-4b6ade3f8543" 
